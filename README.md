@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/10zhu/nb_invest_dev">
+  <a href="https://github.com/10zhu/nb_invest">
     <img src="misc/NBInvest.png" alt="Logo" width="300">
   </a>
   <h3 align="center">Project No-Brainer Investment (NBInvest)</h3>
@@ -42,7 +42,7 @@ We then seek to perform a risk analysis for the predicted future prices. In part
 To this end, we formulated a sum of squares (SOS) optimization problem, and solved it to global optimality using [PICOS](https://picos-api.gitlab.io/picos/introduction.html).
 
 Click to watch our spotlight video:
-[![Watch the video](https://github.com/10zhu/nb_invest_dev/blob/main/misc/nb_invest.jpeg)](https://youtu.be/e0joCz7DmwI)
+[![Watch the video](https://github.com/10zhu/nb_invest/blob/main/misc/nb_invest.jpeg)](https://youtu.be/e0joCz7DmwI)
 
 
 ## Dependencies
@@ -101,4 +101,4 @@ We thank the UPenn 59x Hackathon team for organizing this exciting event!
 [license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
 [license-url]: https://opensource.org/licenses/BSD-3-Clause
 [homepage-shield]: https://img.shields.io/badge/-Colab%20Notebook-orange
-[homepage-url]: https://github.com/10zhu/nb_invest_dev
+[homepage-url]: https://github.com/10zhu/nb_invest
