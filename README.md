@@ -34,6 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+#### 🔥This project has won the *Best Technical Implementation Award* at UPenn MCIT 59x Hackathon 2023!
+
+
 This repository implements NBInvest, an end-to-end mobile App for recommending and making investment decisions.
 The repo is primarily developed and maintained by Yiling Zhu, Minyi Hu, and Qi yu.
 
