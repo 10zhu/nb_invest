@@ -88,7 +88,7 @@ We thank the UPenn 59x Hackathon team for organizing this exciting event!
 * [Flutter](https://flutter.dev/): An open-source UI software development kit.
 
 ### Stock price prediction
-* [Keras](https://keras.io/):A Python interface for artificial neural networks.
+* [Keras](https://keras.io/): A Python interface for artificial neural networks.
 * [TensorFlow](https://www.tensorflow.org/): An open-source software library for machine learning.
 * [yfinance](https://pypi.org/project/yfinance/): Tool for downloading market data.
 
